@@ -1,0 +1,20 @@
+var string="this is a string";
+console.log(string);
+console.log(typeof "f");
+var num=100;
+console.log(num);
+console.log(typeof true);
+console.log(typeof null);
+var x;
+console.log(x);
+var array=[10,20,30,40,50];
+console.log(array);
+console.log(array[3])
+var arr2=["name",44.5,true];
+console.log(arr2[0][2]);
+var array3=[[1,2],[2,3],[3,4]];
+console.log(array3[2][1]);
+array3.push("name");
+console.log(array3);
+array3.pop();
+console.log(array3);
